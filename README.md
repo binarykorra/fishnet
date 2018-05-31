@@ -1,4 +1,4 @@
-# WELCOME, Freenet Users.
+# WELCOME, Freenet Users:
 
 * I am Binary Korra, the Core Developer of Fishnet.
 * I will continue Developing the Fishnet Project.
@@ -6,7 +6,7 @@
 * If ever I fail, I will discontinue it until due time.
 * And of course, Recreate another Project by hand.
 
-# WHAT IS IT ABOUT>
+# WHAT IS IT ABOUT:
 
 * Fishnet is a Free Ware with the skills of a Freenet.
 * An enterprise level of hacking with the BGP (Border Gateway Protocol)
